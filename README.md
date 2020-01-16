@@ -3,6 +3,7 @@
 OpenH264 v2.0.0 source code: https://github.com/cisco/openh264/releases/download/v2.0.0/Source.Code.zip
 
 NDK r17c (linux): https://dl.google.com/android/repository/android-ndk-r17c-linux-x86_64.zip
+
 (Note that there is an error if NDK is higher than r17c)
 
 ### x86:
